@@ -1,0 +1,6 @@
+django
+django-cors-headers
+djangorestframework
+django-debug-toolbar
+utc-simple-log
+psycopg2-binary
