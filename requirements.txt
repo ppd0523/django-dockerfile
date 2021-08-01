@@ -1,6 +1,8 @@
 django
 django-cors-headers
 djangorestframework
+django-rest-auth
 django-debug-toolbar
 utc-simple-log
 psycopg2-binary
+gunicorn
